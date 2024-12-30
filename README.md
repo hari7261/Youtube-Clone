@@ -98,13 +98,15 @@ Follow these steps to get started:
 ## 🖼️ Screenshots
 
 ### 🎬 Home Page
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page)
+![image](https://github.com/user-attachments/assets/7e9ab7be-f23b-414e-8b1e-b76f3930f359)
 
 ### 🔍 Search Results
-![Search Results](https://via.placeholder.com/800x400?text=Search+Results)
+![image](https://github.com/user-attachments/assets/3d698173-66bd-4f7c-a93a-bccd45f83b9e)
+
 
 ### 🎥 Video Player
-![Video Player](https://via.placeholder.com/800x400?text=Video+Player)
+![image](https://github.com/user-attachments/assets/a1d1b7b3-8b60-48d8-8fc0-2402e77929e5)
+
 
 ---
 
