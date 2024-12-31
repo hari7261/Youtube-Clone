@@ -1,10 +1,12 @@
 # 🎥 YouTube Clone
 
+
 A sleek, modern, and fully functional YouTube Clone built with React, Material-UI, and powered by RapidAPI for YouTube data. Dive in and explore a minimalistic yet powerful video streaming experience.
 
 🚀 **Live Demo**: [Simple YouTube Clone](https://simple-youtube-clone-nine.vercel.app)
 
 🔗 **GitHub Repository**: [GitHub](https://github.com/hari7261/Youtube-Clone)
+
 
 ---
 
@@ -14,6 +16,8 @@ A sleek, modern, and fully functional YouTube Clone built with React, Material-U
 - **Watch videos** with an embedded video player 🎥
 - **Responsive design** for mobile, tablet, and desktop 📱💻
 - Modern UI built with Material-UI 🎨
+
+
 
 ---
 
