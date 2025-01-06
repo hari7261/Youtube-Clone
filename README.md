@@ -8,6 +8,9 @@ A sleek, modern, and fully functional YouTube Clone built with React, Material-U
 🔗 **GitHub Repository**: [GitHub](https://github.com/hari7261/Youtube-Clone)
 
 
+
+![image](https://github.com/user-attachments/assets/09533126-cb79-4ff5-8571-2ff00bc34a78)
+
 ---
 
 ## 🛠 Features
